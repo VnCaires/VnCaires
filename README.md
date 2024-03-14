@@ -4,7 +4,7 @@
 Sou aluno do 4° semestre de Ciência da Computação na UFBA.
 
 
-Tenho interesse na área de ciência de dados e inteligência artificial.
+Tenho interesse na área de inteligência artificial.
 Possuo conhecimento em:
 
   •Python
