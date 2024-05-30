@@ -1,27 +1,28 @@
 ## Vinicius Caires
 
 
-Sou aluno do 4° semestre de Ciência da Computação na UFBA.
+Sou aluno do 5° semestre de Ciência da Computação na UFBA.
 
 
-Tenho interesse na área de inteligência artificial.
+Tenho interesse na área de Software Development.
 Possuo conhecimento em:
 
   •Python
-  
-      Bibliotecas como:
-       
-        •Keras
-      
-        •TensorFlow
-      
-        •Pandas
       
   •C
   
-  •C++
+  •C#
   
   •Java
   
-  •GitHub
+  •.NET
   
+  •Full-Stack
+  
+      Tecnologias como:
+       
+        •HTML
+      
+        •CSS
+      
+        •React, etc...
