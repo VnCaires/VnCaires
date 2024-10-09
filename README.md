@@ -21,4 +21,4 @@ Possuo conhecimento em:
       
   •SQL
   
-  •PowwerBI
+  •PowerBI
