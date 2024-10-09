@@ -4,25 +4,21 @@
 Sou aluno do 5° semestre de Ciência da Computação na UFBA.
 
 
-Tenho interesse na área de Software Development.
+Tenho interesse na área de Ciência de Dados.
 Possuo conhecimento em:
 
   •Python
+  
+        •Pandas
       
-  •C
-  
-  •C#
-  
-  •Java
-  
-  •.NET
-  
-  •Full-Stack
-  
-      Tecnologias como:
-       
-        •HTML
+        •Keras
+        
+  •Qlik Sense
+
+        •ETL
       
-        •CSS
+        •DashBoards
       
-        •React, etc...
+  •SQL
+  
+  •PowwerBI
