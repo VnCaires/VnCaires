@@ -28,4 +28,4 @@ Meu objetivo é continuar explorando novas tecnologias, principalmente aquelas r
 
 ---
 
-> "Aprender é um processo infinito, e cada desafio é uma nova oportunidade!" 🚀
+> "Aprender é um processo infinito, e cada desafio é uma nova oportunidade!" 
